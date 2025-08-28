@@ -43,7 +43,7 @@ gem "rswag-api", "~> 2.16"
 
 gem "rswag-ui", "~> 2.16"
 
-gem "aws-sdk-sns", "~> 1.101"
+gem "aws-sdk-sns", "~> 1.106"
 
 gem "sidekiq", "~> 8.0"
 
